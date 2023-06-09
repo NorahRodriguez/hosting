@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS</title>
+        <link>http://norahrodriguez.es/rss.html</link>
+        <description>Canal RSS con las últimas actualizaciones</description>
+        <item>
+            <title>Accidente en la GC-1</title>
+            <description><![CDATA[<p>Ha ocurrido un grave accidente en la GC1, carretera principal de la región.</p><p>El incidente involucró a varios vehículos y ha dejado múltiples heridos.</p><p>Las autoridades ya están en la escena del accidente y se están llevando a cabo las investigaciones correspondientes.</p>]]></description>
+            <category>Motor</category>
+            <category>Sucesos</category>
+            <enclosure url="imagen1.jpg" type="image/jpeg" />
+            <pubDate>Thu, 09 Jun 2023 09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Aprueban la BECA para la formación FP DUAL</title>
+            <description><![CDATA[<p>Se ha aprobado la beca para el programa de Formación Profesional Dual.</p><p>Esta beca ofrece a los estudiantes la oportunidad de combinar estudios teóricos con prácticas remuneradas en empresas del sector.</p><p>Es una gran oportunidad para los estudiantes interesados en adquirir experiencia laboral mientras continúan su formación académica.</p>]]></description>
+            <category>Educación</category>
+            <category>Becas</category>
+            <enclosure url="imagen1.jpg" type="image/jpeg" />
+            <pubDate>Thu, 09 Jun 2023 07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>Se da por finalizado el Ciclón en Gran Canaria</title>
+            <description>><![CDATA[<p>El ciclón que azotó Gran Canaria ha finalizado y la situación comienza a normalizarse.</p><p>Las intensas lluvias y fuertes vientos causaron daños en algunas áreas de la isla, pero no se reportaron heridos graves.</p><p>Las autoridades locales continúan trabajando en las labores de limpieza y reparación de infraestructuras afectadas.</p>]]></description>
+            <category>Meteorología</category>
+            <category>Actualidad</category>
+            <enclosure url="imagen1.jpg" type="image/jpeg" />
+            <pubDate>Thu, 09 Jun 2023 06:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
